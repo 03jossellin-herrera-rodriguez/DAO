@@ -80,7 +80,7 @@
                 </descriptorRefs>
                 <archive>
                     <manifest>
-                        <mainClass>Main</mainClass>
+                        <mainClass>mx.uv.App</mainClass>
                     </manifest>
                 </archive>
             </configuration>
